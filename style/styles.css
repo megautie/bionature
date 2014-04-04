@@ -1,0 +1,31 @@
+@charset "utf-8";
+.cadre {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+}
+#liens {
+	margin: 10px;
+	padding: 5px;
+}
+
+#logo {
+	padding:0;
+	margin:0;
+	height:140px;
+}
+
+#footer {
+	padding:5px;
+	margin:0;
+	background-color: #FFCC33;
+}
+
+#info {
+	padding: 5;
+	margin: 0;
+	text-align: left;
+}
